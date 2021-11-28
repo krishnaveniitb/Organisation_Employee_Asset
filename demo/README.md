@@ -19,14 +19,14 @@ To trial
 * -> Mapping table
 
 
-ORGANIZATION_ID    ORGANIZATION_NAME  	ORGANIZATION_TYPE  
+ORGANIZATION_ID   | ORGANIZATION_NAME  |	ORGANIZATION_TYPE  
 | -------------  | ------------------ | -----------------|
 |      1         | `siemens`          | Product-company  |
 |      2         | `Flatirons`        | Product-company  |
 |      3         | `Google`           | Product-company  |
 
 
-EMPLOYEE_ID      |	EMPLOYEE_NAME  	*EMPLOYEE_ORGANIZATION_ID*
+EMPLOYEE_ID      |EMPLOYEE_NAME  	|*EMPLOYEE_ORGANIZATION_ID*
 | -------------  | ------------------ | -----------------|
 |      4         | `Krishna`          |       1          |
 |      5         | `Veni`             |       2          |
